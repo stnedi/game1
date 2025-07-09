@@ -13,9 +13,6 @@ You have been warned!
 
 # Latest screenshot and video
 
-![Game1](./screenshot1.png)
-<video width="640" height="360" controls>
-  <source src="video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Game1 Screenshot](./screenshot1.png)
+![Game1 Video](./video1.gif)
 
