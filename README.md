@@ -11,6 +11,7 @@ Whislt I've been trying to program since I was kid in 1980's on a Commodore 64 I
 
 You have been warned!
 
-# Latest screenshots
+# Latest screenshot and video
 
-![Game1](./game1_screenshot.png)
+![Game1](./screenshot1.png)
+![Game1](./video1.mkv)
