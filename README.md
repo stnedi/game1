@@ -14,5 +14,5 @@ You have been warned!
 # Latest screenshot and video
 
 ![Game1 Screenshot](./screenshot1.png)
-![Game1 Video](./video1.gif)
+![Game1 Video](./video1.gif) (converted to gif for a bad viewing experience)
 
