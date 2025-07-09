@@ -7,7 +7,7 @@ I've been messing around with loads of game engines including GameMaker, Unity, 
 I've watch loads of content creators as they make games and recently I've been watching https://www.youtube.com/@randyprime as he coded a game in Odin.
 
 # Skill level
-Whislt I've been trying to program since I was kid in 1980's on a Commodore 64 I never really got anywhere.
+I've been trying game programming since I was kid in 1980's using my Commodore 64 but I have never really got anywhere.
 
 You have been warned!
 
