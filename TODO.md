@@ -26,7 +26,9 @@ Complete these tasks first.
 - [x] Add player movement controls (left, right, jump)
 
 
-### Medium Prioritygi
+### Medium Priority
+
+- [ ] Implement shoe pickup (e.g. boosts running speed)
 
 ### Low Priority
 Complete when there are no other urgent tasks.
