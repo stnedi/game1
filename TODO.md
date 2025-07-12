@@ -26,11 +26,7 @@ Complete these tasks first.
 - [x] Add player movement controls (left, right, jump)
 
 
-### Medium Priority
-Do these tasks after the high-priority ones.
-
-- [ ] Implement pickups and enemies
-- [ ] Implement a scoring system
+### Medium Prioritygi
 
 ### Low Priority
 Complete when there are no other urgent tasks.
